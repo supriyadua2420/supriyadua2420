@@ -1,6 +1,6 @@
 # Hi there, I'm Supriya 👋
 
-💻 Software Developer |
+💻 Software Developer
 
 ---
 
